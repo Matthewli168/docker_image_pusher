@@ -1,1 +1,1 @@
-redis:6.2.14-alpine3.20
+tailscale:unstable-v1.69.6
