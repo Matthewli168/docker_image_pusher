@@ -1,1 +1,1 @@
-xhofe/alist:main
+jeessy/ddns-go:v6.6.2
