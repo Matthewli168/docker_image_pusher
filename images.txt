@@ -1,1 +1,1 @@
-frooodle/s-pdf:0.26.1-fat
+pgyvpn:2.4.0
