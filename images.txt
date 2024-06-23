@@ -1,1 +1,1 @@
-d.io/0nlylty/dockercopilot:ZSPACE
+0nlylty/dockercopilot:ZSPACE
