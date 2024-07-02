@@ -1,1 +1,1 @@
-wiznote/wizserver:latest
+tailscale/tailscale:latest
