@@ -1,1 +1,5 @@
-tailscale/tailscale:latest
+httpd:latest
+jeessy/ddns-go:latest
+xhofe/alist:latest
+cloudnas/clouddrive2-unstable:latest
+mzz2017/v2raya:latest
