@@ -1,1 +1,14 @@
-xhongc/music_tag_web:latest
+httpd:latest
+jeessy/ddns-go:latest
+xhofe/alist:latest
+cloudnas/clouddrive2-unstable:latest
+jazzdd/wol:latest
+xhongc/music tag web:latest
+chishin/nginx-proxy-manager-zh:latest
+mzz2017/v2raya:latest
+0nlylty/dockercopilot:ZSPACE
+dreamacro/clash:latest
+johngong/calibre-web:latest
+wiznote/wizserver:latest
+weejewel/wg-easy:latest
+lyswhut/lx-music-sync-server:latest
