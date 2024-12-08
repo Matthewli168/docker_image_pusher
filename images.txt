@@ -1,1 +1,1 @@
-youshandefeiyang/av3a-assistant:amd64
+containrrr/watchtower:latest
