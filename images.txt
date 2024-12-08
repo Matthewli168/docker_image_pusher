@@ -1,1 +1,1 @@
-youshandefeiyang/allinone:latest
+youshandefeiyang/av3a-assistant:amd64
